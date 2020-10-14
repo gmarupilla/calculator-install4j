@@ -9,3 +9,7 @@ out
 *.dmg
 *.class
 .DS_Store
+JamCatOutput.txt
+output.txt
+sha256sums
+md5sums
