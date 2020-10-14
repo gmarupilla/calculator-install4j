@@ -1,0 +1,11 @@
+.idea
+META-INF
+out
+*.zip
+*.jar
+*.jam
+*.xml
+*.iml
+*.dmg
+*.class
+.DS_Store
